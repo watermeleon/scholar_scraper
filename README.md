@@ -1,4 +1,4 @@
-# scholar_scraper
+# Google Scholar Scraper
 
 Code to gather all the papers that cite paper X. 
 It crawls through all the citation pages and puts the following information in a json and excel file:
