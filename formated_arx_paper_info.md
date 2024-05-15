@@ -1,3 +1,9 @@
+
+ ### Non arXiv URLs: 
+
+ - https://gist.github.com/pierrejoubert73/902cc94d79424356a8d20be2b382e1ab
+ ## ArXiv items: 
+
 ###  [Patchscopes: A Unifying Framework for Inspecting Hidden Representations of Language Models - A. Ghandeharioun (2024)](http://arxiv.org/abs/2401.06102v2)
 
 <details open>
@@ -46,14 +52,6 @@ distilled knowledge from large teacher networks to small student networks via
 attention distillation.
 
 </details> 
-
-
- ### Non arXiv URLs: 
-
-
-
-https://gist.github.com/pierrejoubert73/902cc94d79424356a8d20be2b382e1ab
-
 
 
 
